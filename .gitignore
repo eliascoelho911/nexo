@@ -27,3 +27,6 @@
 .cxx
 app/release/**
 app/build/**
+
+# Claude
+/.claude
