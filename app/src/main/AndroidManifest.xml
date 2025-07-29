@@ -10,7 +10,7 @@
     </queries>
 
     <application
-        android:name=".presentation.GPTMobileApp"
+        android:name=".presentation.NexoApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:enableOnBackInvokedCallback="true"
@@ -24,7 +24,7 @@
             android:name=".presentation.ui.main.MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
-            android:theme="@style/Theme.GPTMobile.Starting">
+            android:theme="@style/Theme.Nexo.Starting">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

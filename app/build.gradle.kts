@@ -10,11 +10,11 @@ plugins {
 }
 
 android {
-    namespace = "dev.chungjungsoo.gptmobile"
+    namespace = "com.eliascoelho911.nexo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "dev.chungjungsoo.gptmobile"
+        applicationId = "com.eliascoelho911.nexo"
         minSdk = 31
         targetSdk = 35
         versionCode = 15
